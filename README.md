@@ -2,8 +2,8 @@
 Projeto Avaliativo da Matéria de Análise de Algoritmos do Professor Tiago Vargas
 
 ### Alunos: 
-    Vinicius Andrade de Moura  Matricula: 20202045050498
-    Luiz Henrique Vitorino Matricula: 20202045050
+    Vinicius Andrade de Moura  Matricula: **
+    Luiz Henrique Vitorino Matricula: **
 
 ### Questão selecionada:
 Comparar o algoritmo iterativo de programação dinâmica para o problema da linha
